@@ -7,6 +7,7 @@
 This is a .json to add to \MixedSeedMod\SeedSets\ to add compatability with Raffadax. It is **incredibly** barebones. I play with "TrellisEnabled": true and "FlowersInFlowerMix": false so I didn't bother adding keys to specify trellis and flower crops. Additionally, **all crops share the same drop chance of 3.** 
 
 In addition to the Raffadax.json, you'll also need to add this to \MixedSeedMod\config.json:
+
 `  {
       "name": "Raffadax",
       "UniqueID": "Raffadax.RCP",
