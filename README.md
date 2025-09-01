@@ -9,12 +9,17 @@ This is a .json to add to \MixedSeedMod\SeedSets\ to add compatability with Raff
 In addition to the Raffadax.json, you'll also need to add this to \MixedSeedMod\config.json:
 
 `  
-      {
-            "name": "Raffadax",
-            "UniqueID": "Raffadax.RCP",
-            "enabled": true,
-            "dropChance": 50.0
-      }
+{
+
+"name": "Raffadax",
+
+"UniqueID": "Raffadax.RCP",
+
+"enabled": true,
+
+"dropChance": 50.0
+
+}
   `
 
 If anyone wants to add trellis and flower keys as well as adjust the drop chances feel free, I just figured this was better than nothing for now.
