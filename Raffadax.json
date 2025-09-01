@@ -1,0 +1,1365 @@
+{      
+    "Spring": [
+        {
+          "cropName" : "AdzukiBeans",
+          "seedID" : "Raffadax.RCP_AdzukiBeanStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlueLotusFlower",
+          "seedID" : "Raffadax.RCP_BlueLotusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlueOysterMushroom",
+          "seedID" : "Raffadax.RCP_BlueOysterStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Capers",
+          "seedID" : "Raffadax.RCP_CaperBushStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Chamomile",
+          "seedID" : "Raffadax.RCP_ChamomileSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Chervil",
+          "seedID" : "Raffadax.RCP_ChervilSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "ChicoryFlower",
+          "seedID" : "Raffadax.RCP_ChicorySeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Chives",
+          "seedID" : "Raffadax.RCP_ChiveSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Shamrock",
+          "seedID" : "Raffadax.RCP_CloverPatchStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Cucumber",
+          "seedID" : "Raffadax.RCP_CucumberStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "18",
+          "seedID" : "Raffadax.RCP_DaffodilSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Daisy",
+          "seedID" : "Raffadax.RCP_DaisySeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "22",
+          "seedID" : "Raffadax.RCP_DandelionSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Dill",
+          "seedID" : "Raffadax.RCP_DillSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "DryadsSaddle",
+          "seedID" : "Raffadax.RCP_DryadsSaddleStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Fennel",
+          "seedID" : "Raffadax.RCP_FennelSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Foxglove",
+          "seedID" : "Raffadax.RCP_FoxgloveSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GlassGemCorn",
+          "seedID" : "Raffadax.RCP_GlassGemCornSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GreenBellPepper",
+          "seedID" : "Raffadax.RCP_GreenBellPepperSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GreenLeafLettuce",
+          "seedID" : "Raffadax.RCP_GreenLeafLettuceSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GreenPea",
+          "seedID" : "Raffadax.RCP_GreenPeaStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "HoneydewMelon",
+          "seedID" : "Raffadax.RCP_HoneydewSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "20",
+          "seedID" : "Raffadax.RCP_LeekSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Lemongrass",
+          "seedID" : "Raffadax.RCP_LemongrassSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Liverwort",
+          "seedID" : "Raffadax.RCP_LiverwortStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "IndicaBud",
+          "seedID" : "Raffadax.RCP_MaryJaneSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "MatsutakeMushroom",
+          "seedID" : "Raffadax.RCP_MatsutakeMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "257",
+          "seedID" : "Raffadax.RCP_MorelStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Mosshroom",
+          "seedID" : "Raffadax.RCP_MosshroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PricklyPear",
+          "seedID" : "Raffadax.RCP_PricklyPearCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "OrangeCarrot",
+          "seedID" : "Raffadax.RCP_RainbowCarrotSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Rapini",
+          "seedID" : "Raffadax.RCP_RapiniSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "RedCorn",
+          "seedID" : "Raffadax.RCP_RedCornSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "ScotchBonnetPepper",
+          "seedID" : "Raffadax.RCP_ScotchBonnetPepperSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "ShisoLeaf",
+          "seedID" : "Raffadax.RCP_ShisoSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "399",
+          "seedID" : "Raffadax.RCP_SpringOnionSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "StingingNettle",
+          "seedID" : "Raffadax.RCP_StingingNettleStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "ThunderCap",
+          "seedID" : "Raffadax.RCP_ThunderCapMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Tomatillo",
+          "seedID" : "Raffadax.RCP_TomatilloSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GoldenChest",
+          "seedID" : "Raffadax.RCP_TreasurePlantStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "430",
+          "seedID" : "Raffadax.RCP_TruffleStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "VanillaBean",
+          "seedID" : "Raffadax.RCP_VanillaVineStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Violet",
+          "seedID" : "Raffadax.RCP_VioletSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WhiteTeaLeaf",
+          "seedID" : "Raffadax.RCP_WhiteTeaSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WildBarley",
+          "seedID" : "Raffadax.RCP_WildBarleySeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WildGrapes",
+          "seedID" : "Raffadax.RCP_WildGrapeStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "16",
+          "seedID" : "Raffadax.RCP_HorseradishSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WildOats",
+          "seedID" : "Raffadax.RCP_WildOatSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Woodruff",
+          "seedID" : "Raffadax.RCP_WoodruffSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Xoconostle",
+          "seedID" : "Raffadax.RCP_XoconostleCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        }
+        
+      ],
+
+      "Summer": [
+        {
+          "cropName" : "AdzukiBeans",
+          "seedID" : "Raffadax.RCP_AdzukiBeanStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlueLotusFlower",
+          "seedID" : "Raffadax.RCP_BlueLotusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlueOysterMushroom",
+          "seedID" : "Raffadax.RCP_BlueOysterStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Shamrock",
+          "seedID" : "Raffadax.RCP_CloverPatchStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "DryadsSaddle",
+          "seedID" : "Raffadax.RCP_DryadsSaddleStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PricklyPear",
+          "seedID" : "Raffadax.RCP_PricklyPearCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "RedCorn",
+          "seedID" : "Raffadax.RCP_RedCornSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GoldenChest",
+          "seedID" : "Raffadax.RCP_TreasurePlantStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "430",
+          "seedID" : "Raffadax.RCP_TruffleStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WhiteTeaLeaf",
+          "seedID" : "Raffadax.RCP_WhiteTeaSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WildBarley",
+          "seedID" : "Raffadax.RCP_WildBarleySeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WildGrapes",
+          "seedID" : "Raffadax.RCP_WildGrapeStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Xoconostle",
+          "seedID" : "Raffadax.RCP_XoconostleCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "829",
+          "seedID" : "Raffadax.RCP_WildGingerSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Zucchini",
+          "seedID" : "Raffadax.RCP_ZucchiniSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Asparagus",
+          "seedID" : "Raffadax.RCP_AsparagusSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Basil",
+          "seedID" : "Raffadax.RCP_BasilSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BrusselsSprouts",
+          "seedID" : "Raffadax.RCP_BrusselsSproutSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "CassavaRoot",
+          "seedID" : "Raffadax.RCP_CassavaStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Cilantro",
+          "seedID" : "Raffadax.RCP_CilantroSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "FernFlower",
+          "seedID" : "Raffadax.RCP_FernFlowerSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "259",
+          "seedID" : "Raffadax.RCP_FernStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GreenCardamomPod",
+          "seedID" : "Raffadax.RCP_GreenCardamomSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Indigo",
+          "seedID" : "Raffadax.RCP_IndigoSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "851",
+          "seedID" : "Raffadax.RCP_MagmaCapMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Okra",
+          "seedID" : "Raffadax.RCP_OkraSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PaprikaPepper",
+          "seedID" : "Raffadax.RCP_PaprikaSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Parsley",
+          "seedID" : "Raffadax.RCP_ParsleySeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PassionFruit",
+          "seedID" : "Raffadax.RCP_PassionFruitStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Peanut",
+          "seedID" : "Raffadax.RCP_PeanutSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Peyote",
+          "seedID" : "Raffadax.RCP_PeyoteCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "RadioactiveMushroom",
+          "seedID" : "Raffadax.RCP_RadioactiveMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "RedBellPepper",
+          "seedID" : "Raffadax.RCP_RedBellPepperSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "420",
+          "seedID" : "Raffadax.RCP_RedMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Rose",
+          "seedID" : "Raffadax.RCP_RoseVineStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Sarsaparilla",
+          "seedID" : "Raffadax.RCP_SarsaparillaSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Soybean",
+          "seedID" : "Raffadax.RCP_SoybeanStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Spinach",
+          "seedID" : "Raffadax.RCP_SpinachSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "402",
+          "seedID" : "Raffadax.RCP_SweetPeaSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Watermelon",
+          "seedID" : "Raffadax.RCP_WatermelonSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WhiteGrapes",
+          "seedID" : "Raffadax.RCP_WhiteGrapeStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GoldenCauliflower",
+          "seedID" : "Raffadax.RCP_GoldenCauliflowerSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "FireWheel",
+          "seedID" : "Raffadax.RCP_FireWheelSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Cactushroom",
+          "seedID" : "Raffadax.RCP_CactushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Anemushroom",
+          "seedID" : "Raffadax.RCP_AnemushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Amanita",
+          "seedID" : "Raffadax.RCP_AmanitaStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Aloe",
+          "seedID" : "Raffadax.RCP_AloePod",
+          "dropChance" : 3,
+          "enabled" : true
+        }
+        
+      ],
+
+      "Fall": [
+        {
+          "cropName" : "BlueLotusFlower",
+          "seedID" : "Raffadax.RCP_BlueLotusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlueOysterMushroom",
+          "seedID" : "Raffadax.RCP_BlueOysterStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "DryadsSaddle",
+          "seedID" : "Raffadax.RCP_DryadsSaddleStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Liverwort",
+          "seedID" : "Raffadax.RCP_LiverwortStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PricklyPear",
+          "seedID" : "Raffadax.RCP_PricklyPearCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GoldenChest",
+          "seedID" : "Raffadax.RCP_TreasurePlantStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "430",
+          "seedID" : "Raffadax.RCP_TruffleStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Xoconostle",
+          "seedID" : "Raffadax.RCP_XoconostleCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WhiteGrapes",
+          "seedID" : "Raffadax.RCP_WhiteGrapeStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Amanita",
+          "seedID" : "Raffadax.RCP_AmanitaStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "VoidMushroom",
+          "seedID" : "Raffadax.RCP_VoidMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Wormwood",
+          "seedID" : "Raffadax.RCP_WormwoodSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Tobacco",
+          "seedID" : "Raffadax.RCP_TobaccoSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Topinambur",
+          "seedID" : "Raffadax.RCP_TopinamburSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Turmeric",
+          "seedID" : "Raffadax.RCP_TurmericSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Savory",
+          "seedID" : "Raffadax.RCP_SavorySeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "SweetPotato",
+          "seedID" : "Raffadax.RCP_SweetPotatoSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Tarragon",
+          "seedID" : "Raffadax.RCP_TarragonSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "SativaBud",
+          "seedID" : "Raffadax.RCP_DevilsLettuceSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Mandrake",
+          "seedID" : "Raffadax.RCP_MandrakeSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "MustardGreens",
+          "seedID" : "Raffadax.RCP_MustardSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Oregano",
+          "seedID" : "Raffadax.RCP_OreganoSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PortobelloMushroom",
+          "seedID" : "Raffadax.RCP_PortobelloMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PsilocybinMushroom",
+          "seedID" : "Raffadax.RCP_PsilocybinMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PuffballMushroom",
+          "seedID" : "Raffadax.RCP_PuffballMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PurpleAsparagus",
+          "seedID" : "Raffadax.RCP_PurpleAsparagusSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PurpleBellPepper",
+          "seedID" : "Raffadax.RCP_PurpleBellPepperSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PurpleCauliflower",
+          "seedID" : "Raffadax.RCP_PurpleCauliflowerSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "422",
+          "seedID" : "Raffadax.RCP_PurpleMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "RedAntlerReishi",
+          "seedID" : "Raffadax.RCP_AntlerGanodermaStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "RedOnion",
+          "seedID" : "Raffadax.RCP_RedOnionSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "RedPotato",
+          "seedID" : "Raffadax.RCP_RedPotatoSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Rye",
+          "seedID" : "Raffadax.RCP_RyeSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "RedPeppercorns",
+          "seedID" : "Raffadax.RCP_PeppercornStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Cantaloupe",
+          "seedID" : "Raffadax.RCP_CantaloupeSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "CarawayFlower",
+          "seedID" : "Raffadax.RCP_CarawaySeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "CayennePepper",
+          "seedID" : "Raffadax.RCP_CayennePepperSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "281",
+          "seedID" : "Raffadax.RCP_ChanterelleStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Fenugreek",
+          "seedID" : "Raffadax.RCP_FenugreekSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GarbanzoBeans",
+          "seedID" : "Raffadax.RCP_GarbanzoBeanStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GentianFlower",
+          "seedID" : "Raffadax.RCP_GentianFlowerSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "373",
+          "seedID" : "Raffadax.RCP_GoldenPumpkinSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GreenCabbage",
+          "seedID" : "Raffadax.RCP_GreenCabbageSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Hawkweed",
+          "seedID" : "Raffadax.RCP_HawkweedSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "HornNut",
+          "seedID" : "Raffadax.RCP_HornNutStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "746",
+          "seedID" : "Raffadax.RCP_JackOLanternSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlackStoneFlower",
+          "seedID" : "Raffadax.RCP_LichenStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "404",
+          "seedID" : "Raffadax.RCP_CommonMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Nigella",
+          "seedID" : "Raffadax.RCP_BlackCuminSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlueCorn",
+          "seedID" : "Raffadax.RCP_BlueCornSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlackShamrock",
+          "seedID" : "Raffadax.RCP_BlackCloverSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        }
+        
+      ],
+      
+      "Winter" : [
+        {
+          "cropName" : "Chives",
+          "seedID" : "Raffadax.RCP_ChiveSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GlassGemCorn",
+          "seedID" : "Raffadax.RCP_GlassGemCornSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PricklyPear",
+          "seedID" : "Raffadax.RCP_PricklyPearCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GoldenChest",
+          "seedID" : "Raffadax.RCP_TreasurePlantStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WildOats",
+          "seedID" : "Raffadax.RCP_WildOatSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Xoconostle",
+          "seedID" : "Raffadax.RCP_XoconostleCactusStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Rye",
+          "seedID" : "Raffadax.RCP_RyeSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlackStoneFlower",
+          "seedID" : "Raffadax.RCP_LichenStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlueCorn",
+          "seedID" : "Raffadax.RCP_BlueCornSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlackShamrock",
+          "seedID" : "Raffadax.RCP_BlackCloverSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BerserkerMushroom",
+          "seedID" : "Raffadax.RCP_BerserkerMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlackBeans",
+          "seedID" : "Raffadax.RCP_BlackBeanStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BlackSesameSeeds",
+          "seedID" : "Raffadax.RCP_BlackSesameSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "BluePotato",
+          "seedID" : "Raffadax.RCP_BluePotatoSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "78",
+          "seedID" : "Raffadax.RCP_CaveCarrotSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Celery",
+          "seedID" : "Raffadax.RCP_CelerySeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "418",
+          "seedID" : "Raffadax.RCP_CrocusSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PurpleCarrot",
+          "seedID" : "Raffadax.RCP_DarkRainbowCarrotSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "FrostCap",
+          "seedID" : "Raffadax.RCP_FrostCapMushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GemCap",
+          "seedID" : "Raffadax.RCP_GemCapStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "GlassPumpkin",
+          "seedID" : "Raffadax.RCP_GlassPumpkinSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Lentils",
+          "seedID" : "Raffadax.RCP_LentilSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Luminushroom",
+          "seedID" : "Raffadax.RCP_LuminushroomStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Marjoram",
+          "seedID" : "Raffadax.RCP_MarjoramSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Mugwort",
+          "seedID" : "Raffadax.RCP_MugwortSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Peppermint",
+          "seedID" : "Raffadax.RCP_PeppermintSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "PeriwinkleFlower",
+          "seedID" : "Raffadax.RCP_PeriwinkleSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Poinsettia",
+          "seedID" : "Raffadax.RCP_PoinsettiaSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Romanesco",
+          "seedID" : "Raffadax.RCP_RomanescoSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Rutabaga",
+          "seedID" : "Raffadax.RCP_RutabagaSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Sage",
+          "seedID" : "Raffadax.RCP_SageSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "SnowPea",
+          "seedID" : "Raffadax.RCP_SnowPeaStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "416",
+          "seedID" : "Raffadax.RCP_SnowYamSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Spearmint",
+          "seedID" : "Raffadax.RCP_SpearmintSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Squash",
+          "seedID" : "Raffadax.RCP_SquashSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Thyme",
+          "seedID" : "Raffadax.RCP_ThymeSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Turnip",
+          "seedID" : "Raffadax.RCP_TurnipSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WaxBean",
+          "seedID" : "Raffadax.RCP_WaxBeanStarter",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WhiteAsparagus",
+          "seedID" : "Raffadax.RCP_WhiteAsparagusSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WhiteBellPepper",
+          "seedID" : "Raffadax.RCP_WhiteBellPepperSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "WhiteOnion",
+          "seedID" : "Raffadax.RCP_WhiteOnionSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "412",
+          "seedID" : "Raffadax.RCP_WinterRootSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Wintergreen",
+          "seedID" : "Raffadax.RCP_WintergreenSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Wolfsbane",
+          "seedID" : "Raffadax.RCP_WolfsbaneSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        },
+
+        {
+          "cropName" : "Yarrow",
+          "seedID" : "Raffadax.RCP_YarrowSeeds",
+          "dropChance" : 3,
+          "enabled" : true
+        }
+        
+      ]
+      
+}
